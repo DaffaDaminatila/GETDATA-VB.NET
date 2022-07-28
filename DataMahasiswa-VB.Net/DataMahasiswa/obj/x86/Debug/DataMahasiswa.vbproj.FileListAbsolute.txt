@@ -1,0 +1,13 @@
+C:\Users\daffa\onedrive\documents\visual studio 2010\Projects\DataMahasiswa\DataMahasiswa\bin\Debug\DataMahasiswa.exe.config
+C:\Users\daffa\onedrive\documents\visual studio 2010\Projects\DataMahasiswa\DataMahasiswa\bin\Debug\DataMahasiswa.exe
+C:\Users\daffa\onedrive\documents\visual studio 2010\Projects\DataMahasiswa\DataMahasiswa\bin\Debug\DataMahasiswa.pdb
+C:\Users\daffa\onedrive\documents\visual studio 2010\Projects\DataMahasiswa\DataMahasiswa\bin\Debug\DataMahasiswa.xml
+C:\Users\daffa\onedrive\documents\visual studio 2010\Projects\DataMahasiswa\DataMahasiswa\obj\x86\Debug\DataMahasiswa.vbproj.ResolveComReference.cache
+C:\Users\daffa\onedrive\documents\visual studio 2010\Projects\DataMahasiswa\DataMahasiswa\obj\x86\Debug\DataMahasiswa.Form1.resources
+C:\Users\daffa\onedrive\documents\visual studio 2010\Projects\DataMahasiswa\DataMahasiswa\obj\x86\Debug\DataMahasiswa.Resources.resources
+C:\Users\daffa\onedrive\documents\visual studio 2010\Projects\DataMahasiswa\DataMahasiswa\obj\x86\Debug\DataMahasiswa.vbproj.GenerateResource.Cache
+C:\Users\daffa\onedrive\documents\visual studio 2010\Projects\DataMahasiswa\DataMahasiswa\obj\x86\Debug\DataMahasiswa.exe
+C:\Users\daffa\onedrive\documents\visual studio 2010\Projects\DataMahasiswa\DataMahasiswa\obj\x86\Debug\DataMahasiswa.xml
+C:\Users\daffa\onedrive\documents\visual studio 2010\Projects\DataMahasiswa\DataMahasiswa\obj\x86\Debug\DataMahasiswa.pdb
+C:\Users\daffa\OneDrive\Documents\Visual Studio 2010\Projects\DataMahasiswa\DataMahasiswa\obj\x86\Debug\DataMahasiswa.vbproj.AssemblyReference.cache
+C:\Users\daffa\OneDrive\Documents\Visual Studio 2010\Projects\DataMahasiswa\DataMahasiswa\obj\x86\Debug\DataMahasiswa.vbproj.CoreCompileInputs.cache
